@@ -1,0 +1,41 @@
+body {
+    background-image: url("https://images.alphacoders.com/345/34571.jpg");
+    color: white;
+}
+
+div {
+  width: 50%
+}
+
+.spoil-protect {
+  color: white;
+  background-color: white;
+}
+
+span:hover {
+  background-color: black;
+}
+
+.indent{
+  text-indent: 50px;
+}
+
+a {
+  color: #3399ff;
+}
+
+p {
+  font-family: "Arial", sans-serif;
+  font-size: 13px;
+}
+
+ul {
+  font-family: "Arial", sans-serif;
+  font-size: 13px;
+}
+
+h1 {
+  color: red;
+  font-size: 30px;
+  font-weight: bold;
+}
